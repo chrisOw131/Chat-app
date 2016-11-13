@@ -1,0 +1,37 @@
+-----------------------------------
+			Help
+-----------------------------------
+	1. Commands
+-----------------------------------
+
+myip 
+	Usage: myip
+	Description: Displays process IP address.
+	
+myport
+	Usage: myport
+	Description: Displays the listening port. 
+	
+connect 
+	Usage: connect <Destination> <Port No.>
+	Description: Attempts to connect to the destination IP and Port Number.
+	
+list 
+	Usage: list
+	Description: Displays all connections in a list in the form of ID, IP Address, and Port Number. 
+	
+terminate
+	Usage: terminate <Connection ID>
+	Description: Terminates a connection depending on the Connection ID. 
+	
+send
+	Usage: send <Connection ID> <Message>
+	Description: Sends a message to other peer with the corresponding Connection ID.
+	
+exit 
+	Usage: exit
+	Description: Terminates/close all connections in the connection list. 
+
+
+
+	
